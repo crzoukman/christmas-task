@@ -1,0 +1,26 @@
+.App {
+  flex-direction: column;
+  display: flex;
+  min-height: 100vh;
+  max-width: 1920px;
+  min-width: 550px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+header {
+  min-height: 15vh;
+}
+
+main {
+  min-height: 75vh;
+}
+
+main > div {
+  min-height: 75vh;
+}
+
+footer {
+  /* margin-top: auto; */
+  min-height: 10vh;
+}
