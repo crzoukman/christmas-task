@@ -4,7 +4,7 @@ Choose toys and decorate the Christmas tree! Selfmade design. My own dran-n-drop
 
 ## What does it do?
 
-You're able to pick toys and add them to a basket using bunch of filters and sorting. Next, you can drag-n-drop toys on the Christmas tree. You can switch backgounds, save current state of a decorated tree (you can load saved tree after page reloading).
+You're able to pick toys and add them to a basket using bunch of filters and sorting. Next, you can drag-n-drop toys on the Christmas tree. You can switch backgrounds, trees, save current state of a decorated tree (you can load saved tree after page reloading). Also you're able to turn on/off snowfall or background music.
 
 ## Links
 
